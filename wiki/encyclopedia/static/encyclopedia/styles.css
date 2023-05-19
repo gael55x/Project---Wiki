@@ -1,0 +1,109 @@
+/* Overall styling */
+body {
+    margin: 0;
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+/* Code block styling */
+code {
+    white-space: pre;
+    background-color: #f8f8f8;
+    color: #555;
+    font-size: 14px;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+/* Page title styling */
+h1 {
+    margin-top: 0;
+    padding-top: 20px;
+    font-size: 36px;
+    font-weight: bold;
+    color: #333;
+}
+
+/* Textarea styling */
+textarea {
+    height: 50vh;
+    width: 80%;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    resize: vertical;
+}
+
+/* Main content area styling */
+.main {
+    padding: 20px;
+}
+
+/* Search bar styling */
+.search {
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+/* Sidebar styling */
+.sidebar {
+    background-color: #f0f0f0;
+    height: 100vh;
+    padding: 20px;
+}
+
+/* Sidebar header styling */
+.sidebar h2 {
+    margin-top: 5px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+/* H2 header styling */
+.h2 {
+    font-size: 28px;
+    font-weight: bold;
+    color: #333;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+/* H3 header styling */
+.h3 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #555;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+/* List item styling */
+.list-item {
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* Unordered list styling */
+ul {
+    padding-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* Code block styling */
+.code {
+    background-color: #f8f8f8;
+    color: #555;
+    font-size: 14px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    overflow-x: auto;
+}
